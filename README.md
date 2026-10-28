@@ -7,7 +7,7 @@ ArtCraft 0.41.0。
 
 - Windows 10 或 Windows 11
 - 已安装官方 ArtCraft 0.41.0
-- 不需要另外安装 Node.js，补丁带有便携运行时
+- 不需要另外安装 Node.exe，补丁带有便携运行时,完整版懒人包（内含 node.exe）在右侧 Releases 下载
 
 ## 使用方法
 
@@ -39,3 +39,14 @@ ArtCraft 0.41.0。
 
 ArtCraft 品牌名、模型名、你输入的提示词、项目名、文件名和模型生成
 内容会保持原样。
+## 汉化前后对比
+<img width="1262" height="661" alt="image" src="https://github.com/user-attachments/assets/aafdd49c-0363-4ff7-8583-e7f03b8b9ab3" />
+<img width="1255" height="670" alt="image" src="https://github.com/user-attachments/assets/69c71ede-2638-4d3f-9795-5c0e4e98c0f3" />
+<img width="1255" height="671" alt="image" src="https://github.com/user-attachments/assets/38537855-780c-4a96-a332-5e6761b23d83" />
+
+<img width="1263" height="669" alt="image" src="https://github.com/user-attachments/assets/75a1e6d8-cd72-4998-abee-aed2e3a47b6a" />
+<img width="1255" height="671" alt="image" src="https://github.com/user-attachments/assets/e439cad1-5cfb-4b52-8122-780068b92ee8" />
+<img width="512" height="394" alt="image" src="https://github.com/user-attachments/assets/9963511b-03d1-4281-9122-c6ee9e13c9cf" />
+
+
+

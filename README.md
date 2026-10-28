@@ -6,7 +6,7 @@ ArtCraft 0.41.0。
 ## 对方需要什么
 
 - Windows 10 或 Windows 11
-- 已安装官方 ArtCraft 0.41.0
+- 已安装官方 ArtCraft 0.41.0 链接：https://github.com/storytold/artcraft
 - 不需要另外安装 Node.exe，补丁带有便携运行时,完整版懒人包（内含 node.exe）在右侧 Releases 下载
 
 ## 使用方法
